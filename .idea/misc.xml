@@ -4,9 +4,6 @@
   <component name="GitToolBoxBlameSettings">
     <option name="version" value="2" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="8149d062-d308-418e-9c43-77caaed08639" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -179,7 +176,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
